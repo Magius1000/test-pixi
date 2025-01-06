@@ -1,0 +1,111 @@
+{"frames": {
+
+"02_LeftRock_Sunrise2Day_01.webp":
+{
+	"frame": {"x":0,"y":0,"w":291,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":352},
+	"sourceSize": {"w":291,"h":352}
+},
+"02_LeftRock_Sunrise2Day_02.webp":
+{
+	"frame": {"x":291,"y":0,"w":291,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":352},
+	"sourceSize": {"w":291,"h":352}
+},
+"02_LeftRock_Sunrise2Day_03.webp":
+{
+	"frame": {"x":582,"y":0,"w":291,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":352},
+	"sourceSize": {"w":291,"h":352}
+},
+"02_LeftRock_Sunrise2Day_04.webp":
+{
+	"frame": {"x":0,"y":352,"w":291,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":352},
+	"sourceSize": {"w":291,"h":352}
+},
+"02_LeftRock_Sunrise2Day_05.webp":
+{
+	"frame": {"x":291,"y":352,"w":291,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":352},
+	"sourceSize": {"w":291,"h":352}
+},
+"02_LeftRock_Sunrise2Day_06.webp":
+{
+	"frame": {"x":582,"y":352,"w":291,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":352},
+	"sourceSize": {"w":291,"h":352}
+},
+"02_LeftRock_Sunrise2Day_07.webp":
+{
+	"frame": {"x":0,"y":704,"w":291,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":352},
+	"sourceSize": {"w":291,"h":352}
+},
+"02_LeftRock_Sunrise2Day_08.webp":
+{
+	"frame": {"x":291,"y":704,"w":291,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":352},
+	"sourceSize": {"w":291,"h":352}
+},
+"02_LeftRock_Sunrise2Day_09.webp":
+{
+	"frame": {"x":582,"y":704,"w":291,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":352},
+	"sourceSize": {"w":291,"h":352}
+},
+"02_LeftRock_Sunrise2Day_10.webp":
+{
+	"frame": {"x":0,"y":1056,"w":291,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":352},
+	"sourceSize": {"w":291,"h":352}
+},
+"02_LeftRock_Sunrise2Day_11.webp":
+{
+	"frame": {"x":291,"y":1056,"w":291,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":352},
+	"sourceSize": {"w":291,"h":352}
+},
+"02_LeftRock_Sunrise2Day_12.webp":
+{
+	"frame": {"x":582,"y":1056,"w":291,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":352},
+	"sourceSize": {"w":291,"h":352}
+}},
+"animations": {
+	"02_LeftRock_Sunrise2Day": ["02_LeftRock_Sunrise2Day_01.webp","02_LeftRock_Sunrise2Day_02.webp","02_LeftRock_Sunrise2Day_03.webp","02_LeftRock_Sunrise2Day_04.webp","02_LeftRock_Sunrise2Day_05.webp","02_LeftRock_Sunrise2Day_06.webp","02_LeftRock_Sunrise2Day_07.webp","02_LeftRock_Sunrise2Day_08.webp","02_LeftRock_Sunrise2Day_09.webp","02_LeftRock_Sunrise2Day_10.webp","02_LeftRock_Sunrise2Day_11.webp","02_LeftRock_Sunrise2Day_12.webp"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "01.webp",
+	"format": "RGBA8888",
+	"size": {"w":873,"h":1408},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dcf4e46825fac4440f8ed0a938f93ee6:c7e346adc0308153909ddda0b6c88092:cf195ddaf31720fe648a908f06cb03b4$"
+}
+}
